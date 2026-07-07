@@ -3,6 +3,6 @@
   "description": "Turn any folder into an AI-powered second brain. Includes /os-setup, /agentic-os-setup (command-center dashboard inside Obsidian OR standalone Next.js web app), /os-optimizer (22-pass audit), /os-operator, /os-mcp, and /team-os.",
   "version": "3.10.0",
   "author": {
-    "name": "BenAI"
+    "name": "leaders-adapt"
   }
 }

@@ -16,7 +16,7 @@
       "description": "Every BenAI skill in one install. All 105 skills across marketing, sales, SEO, ads, design, YouTube, creative, operations, second-brain OS, and general productivity. Add this one plugin to get the complete library.",
       "version": "1.2.0",
       "author": {
-        "name": "BenAI"
+        "name": "leaders-adapt"
       },
       "keywords": [
         "all",
@@ -39,7 +39,7 @@
       "description": "Rank higher and grow organic traffic with programmatic SEO, technical audits, and Search Console optimization. Create email sequences that convert, build compelling case studies, and generate professional infographics. Repurpose YouTube content into LinkedIn posts, newsletters, GIFs, and visual diagrams.",
       "version": "1.0.0",
       "author": {
-        "name": "BenAI"
+        "name": "leaders-adapt"
       },
       "keywords": [
         "seo",
@@ -61,7 +61,7 @@
       "description": "Research and score B2B leads, craft personalized outreach sequences, and build client success stories. Turn discovery call transcripts into actionable automation blueprints.",
       "version": "1.0.0",
       "author": {
-        "name": "BenAI"
+        "name": "leaders-adapt"
       },
       "keywords": [
         "lead-generation",
@@ -78,7 +78,7 @@
       "description": "Stand up a complete Sales OS — a markdown second brain for your sales world plus the routines, skills, and dashboard that keep it current: onboarder, lead-gen, outreach, one-pager, post-discovery follow-up, and OS optimizer/operator/MCP.",
       "version": "1.0.1",
       "author": {
-        "name": "BenAI"
+        "name": "leaders-adapt"
       },
       "keywords": [
         "sales-os",
@@ -99,7 +99,7 @@
       "description": "Create and run Anthropic Managed Agents from Claude Code. Walks through the lifecycle via the REST API: agent, environment, vault, MCP OAuth credentials, session, first message. Generic builder, no preset template.",
       "version": "1.0.0",
       "author": {
-        "name": "BenAI"
+        "name": "leaders-adapt"
       },
       "keywords": [
         "managed-agents",
@@ -118,7 +118,7 @@
       "description": "Build, test, and deploy n8n workflows through incremental REST API automation. Convert discovery call transcripts into implementation-ready automation blueprints.",
       "version": "1.0.0",
       "author": {
-        "name": "BenAI"
+        "name": "leaders-adapt"
       },
       "keywords": [
         "n8n",
@@ -133,7 +133,7 @@
       "description": "Edit and render videos with FFmpeg and Remotion, from stitching and transitions to captions and teasers. Design presentations in Excalidraw and generate AI-powered infographics.",
       "version": "1.0.0",
       "author": {
-        "name": "BenAI"
+        "name": "leaders-adapt"
       },
       "keywords": [
         "video",
@@ -149,7 +149,7 @@
       "description": "Design presentations, pitch decks, and process diagrams collaboratively in Excalidraw. Turn discovery call transcripts into structured automation blueprints your team can implement.",
       "version": "1.0.0",
       "author": {
-        "name": "BenAI"
+        "name": "leaders-adapt"
       },
       "keywords": [
         "excalidraw",
@@ -164,7 +164,7 @@
       "description": "Plan, brief, and prepare YouTube videos from idea to filming-ready. Create video briefs, generate topic ideas, optimize titles and thumbnails, build structured outlines, write scripts, and design on-screen excalidraw visuals.",
       "version": "1.0.0",
       "author": {
-        "name": "BenAI"
+        "name": "leaders-adapt"
       },
       "keywords": [
         "youtube",
@@ -184,7 +184,7 @@
       "description": "Complete SEO toolkit via /seo command: full site audits with parallel subagents, technical SEO, E-E-A-T content quality, schema, sitemaps, image optimization, AI search/GEO, programmatic SEO, competitor pages, hreflang, and Search Console optimization.",
       "version": "1.0.0",
       "author": {
-        "name": "BenAI"
+        "name": "leaders-adapt"
       },
       "keywords": [
         "seo",
@@ -206,7 +206,7 @@
       "description": "Paid ads toolkit (14 skills + 6 audit subagents). Covers Google, Meta, LinkedIn, TikTok, YouTube, and Microsoft Ads. Includes audits, budget allocation (70/20/10), creative + brand context, landing pages, strategic planning, and competitive intel.",
       "version": "1.1.0",
       "author": {
-        "name": "BenAI"
+        "name": "leaders-adapt"
       },
       "keywords": [
         "ads",
@@ -233,7 +233,7 @@
       "description": "Premium frontend design skills that override default AI design biases. Includes a configurable design system with anti-slop rules for React/Next.js/Tailwind, aesthetic variants (soft, minimalist, brutalist), project redesign auditing, Google Stitch integration, and full-output enforcement.",
       "version": "1.0.0",
       "author": {
-        "name": "BenAI"
+        "name": "leaders-adapt"
       },
       "keywords": [
         "design",
@@ -256,7 +256,7 @@
       "description": "Generate on-brand YouTube thumbnails and in-video visuals (slides) using Higgsfield via reference images. Includes youtube-thumbnail-generate (creative ideation across variants, locked Ben face) and generate-visual (single slides or progressive-disclosure sequences for tutorial videos).",
       "version": "2.1.0",
       "author": {
-        "name": "BenAI"
+        "name": "leaders-adapt"
       },
       "keywords": [
         "higgsfield",
@@ -274,7 +274,7 @@
       "description": "Set up an agentic OS — inside an Obsidian vault (command-center dashboard + bundled plugins) or as a standalone Next.js web dashboard with live MCP integrations and optional Railway deploy. Includes /os-mcp to self-host the Relay MCP server.",
       "version": "1.0.0",
       "author": {
-        "name": "BenAI"
+        "name": "leaders-adapt"
       },
       "keywords": [
         "agentic-os",
@@ -294,7 +294,7 @@
       "description": "Turn any folder into an AI-powered second brain. Includes /os-setup, /agentic-os-setup (command-center dashboard inside Obsidian OR standalone Next.js web app), /os-optimizer (22-pass audit), /os-operator, /os-mcp, and /team-os.",
       "version": "3.10.0",
       "author": {
-        "name": "BenAI"
+        "name": "leaders-adapt"
       },
       "keywords": [
         "personal-assistant",
@@ -319,7 +319,7 @@
       "description": "Autonomous optimization loop — iterates on prompts, skills, templates, or code overnight. Two evaluation modes: deterministic (eval.py with proxy heuristics) for mechanical checks, or AI judge (LLM rubric scoring) for creative/subjective quality. Uses 4-way agent separation for unbiased evaluation.",
       "version": "1.0.0",
       "author": {
-        "name": "BenAI"
+        "name": "leaders-adapt"
       },
       "keywords": [
         "autoresearch",
@@ -339,7 +339,7 @@
       "description": "Set up an AI OS at the tier that fits — Skill OS (your entire second brain inside one Claude skill, zero infra) or Cloud OS (synced via Google Drive, OneDrive, iCloud, or Dropbox). Shares one folder structure with the Local OS (Obsidian) tier so you can graduate between them.",
       "version": "1.0.0",
       "author": {
-        "name": "BenAI"
+        "name": "leaders-adapt"
       },
       "keywords": [
         "ai-os",
