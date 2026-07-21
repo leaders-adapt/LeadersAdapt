@@ -477,6 +477,10 @@
         "google-workspace-cli-installer-guide": {
           "displayName": "Google Workspace CLI Installer",
           "summary": "Interactive step-by-step installer for the Google Workspace CLI (gws) from a clean machine — installs gcloud + gws, sets up the GCP project + OAuth consent, verifies with a real Gmail call, and runs a tailored first-use proof-of-concept."
+        },
+        "hub-spoke-blog-writer": {
+          "displayName": "Hub and Spoke Blog Writer",
+          "summary": "Generates hub-and-spoke SEO/AEO/GEO blog clusters scored against a 14-metric rubric with a 9.0/10 quality gate"
         }
       }
     },
@@ -538,6 +542,10 @@
         "course-creator": {
           "displayName": "Course Creator",
           "summary": "Interactive 7-phase course creation — from idea or YouTube video to launch-ready package with curriculum, scripts, sales page, emails, and launch plan"
+        },
+        "hub-spoke-blog-writer": {
+          "displayName": "Hub and Spoke Blog Writer",
+          "summary": "Generates hub-and-spoke SEO/AEO/GEO blog clusters scored against a 14-metric rubric with a 9.0/10 quality gate"
         }
       }
     },
